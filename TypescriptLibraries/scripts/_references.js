@@ -10,3 +10,5 @@
 /// <reference path="knockout/knockout-classbinding-provider.js" />
 /// <reference path="moment/moment-with-locales.min.js" />
 /// <reference path="moment/moment.min.js" />
+/// <reference path="../models.js" />
+/// <reference path="noty/jquery.noty.packaged.js" />
